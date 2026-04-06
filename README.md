@@ -1,4 +1,4 @@
-# MyCutsApp
+# FilvockCutsApp
 app to cut
 
 # Política de Privacidade e Termos de Uso
